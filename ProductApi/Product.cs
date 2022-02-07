@@ -1,4 +1,4 @@
-﻿namespace DanFay.ProductApi.Models
+﻿namespace ProductApi.Models
 {
     public class Product
     {

@@ -1,8 +1,8 @@
-﻿using DanFay.ProductApi.Models;
+﻿using ProductApi.Models;
 using System;
 using System.Collections.Generic;
 
-namespace DanFay.ProductApi.Services
+namespace ProductApi.Services
 {
     public class ProductService:IProductService
     {

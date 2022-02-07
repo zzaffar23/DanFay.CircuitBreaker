@@ -1,13 +1,10 @@
-﻿using DanFay.ProductApi.Models;
-using DanFay.ProductApi.Services;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
+using ProductApi.Models;
+using ProductApi.Services;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace DanFay.ProductApi.Controllers
+namespace ProductApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

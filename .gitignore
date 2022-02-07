@@ -43,10 +43,10 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-DanFay.ProductApi2/bin/
+ProductApi/bin/
 OrderApi/bin/
 
-DanFay.ProductApi2/obj/
+ProductApi/obj/
 OrderApi/obj/
 
 .vs
